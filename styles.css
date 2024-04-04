@@ -21,6 +21,9 @@ i{
 	flex-wrap:wrap;
 	padding:15px;
 }
+.media-icons{
+	display:flex;
+}
 .media-icons>a{
 	margin-inline:5px;
 }
